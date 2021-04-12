@@ -6,5 +6,12 @@ use Illuminate\Http\Request;
 
 class MeuControlador extends Controller
 {
-    //
+
+
+
+
+
+    
 }
+    //
+
